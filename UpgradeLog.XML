@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Y!GroupMails">
+</Property><Property Name="Solution File" Value="C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails.sln">
+</Property><Property Name="User Options File" Value="C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails.suo">
+</Property><Property Name="Date" Value="10 April 2011">
+</Property><Property Name="Time" Value="20:00">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Y!GroupMails.sln" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Y!GroupMails.suo" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails.suo">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Y!GroupMails.csproj" Description="Project file successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Y!GroupMails.csproj">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Form1.cs" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Form1.Designer.cs" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Program.cs" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Program.cs">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Properties\Settings.settings" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Yahoo!.ico" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Yahoo!.ico">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Form1.resx" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Properties\Resources.resx" Description="File successfully backed up as C:\Projects\Y!GroupMails\Y!GroupMails\Backup\Y!GroupMails\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Y!GroupMails.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Y!GroupMails" Source="Y!GroupMails\Y!GroupMails.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Y!GroupMails.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Y!GroupMails.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Y!GroupMails" Source="Y!GroupMails\Y!GroupMails.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

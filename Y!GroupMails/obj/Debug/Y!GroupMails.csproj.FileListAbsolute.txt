@@ -1,0 +1,17 @@
+f:\WORK\Y!GroupMails\Y!GroupMails\Y!GroupMails\bin\Debug\Y!GroupMails.exe
+f:\WORK\Y!GroupMails\Y!GroupMails\Y!GroupMails\bin\Debug\Y!GroupMails.pdb
+f:\WORK\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\ResolveAssemblyReference.cache
+f:\WORK\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y_GroupMails.Form1.resources
+f:\WORK\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y_GroupMails.Properties.Resources.resources
+f:\WORK\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y!GroupMails.csproj.GenerateResource.Cache
+f:\WORK\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y!GroupMails.exe
+f:\WORK\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y!GroupMails.pdb
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y!GroupMails.exe
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y!GroupMails.pdb
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y_GroupMails.Form1.resources
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\Y_GroupMails.Properties.Resources.resources
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\bin\Debug\Y!GroupMails.exe
+C:\Projects\Y!GroupMails\Y!GroupMails\Y!GroupMails\bin\Debug\Y!GroupMails.pdb
